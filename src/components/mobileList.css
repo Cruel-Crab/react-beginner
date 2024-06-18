@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 4px;
+
+    img {
+        max-width: 100px;
+        margin-right: 6px;
+    }
+}

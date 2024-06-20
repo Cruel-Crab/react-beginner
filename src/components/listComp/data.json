@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoegmail.com",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "janedoegmail.com",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 3,
+    "name": "John Smith",
+    "email": "johnsmithgmail.com",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 4,
+    "name": "Jane Smith",
+    "email": "janesmithgmail.com",
+    "phone": "123-456-7890"
+  }
+]

@@ -1,0 +1,9 @@
+.counterWrapper {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 4px;
+    
+    .btn {
+        margin-right: 6px;
+    }
+}
